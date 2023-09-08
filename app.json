@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "BMI-Calculator-Application",
+    "slug": "BMI-Calculator-Application",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9f80e828-f220-4a89-b688-8f1758dd60fe"
+      }
+    }
+  }
+}
